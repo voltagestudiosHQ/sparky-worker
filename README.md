@@ -2,7 +2,7 @@
 Sparky is an ai agent designed to give users a nice chat experience while also being able to perform tasks. It's chill, it's got personality, and yeah it's still in beta so maybe don't rely on it for anything critical lol.
 ## Official URLs
 - [GitHub Repository](https://github.com/voltagestudiosofficial/sparky-worker) (the repo you're probably on rn)
-- [Official (stable) Instance](https://t.me/realsparkybot) (holler at @realsparkybot on Telegram)
+- [Official (stable) Instance](https://t.me/voltagesparkybot) (holler at @voltagesparkybot on Telegram)
 - [Bug Tracker](https://github.com/voltagestudiosofficial/sparky-worker/issues) (found a bug? lemme know)
 ## Contributing
 Wanna help? fork it, make your changes, send a PR. we don't bite 🦷 bug fixes, features, better docs, vibes—all welcome. just keep it chill and add tests if you're adding big stuff.
